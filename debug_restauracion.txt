@@ -1,0 +1,260 @@
+2024-09-02T21:50:58+00:00 Este script restaurará todos los recursos Interferencia de unidades LM, únicamente.
+2024-09-02T21:50:58+00:00 Se restaurarán 66 recursos.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 54131 | html_generico | Interferencia: ¡Cuchara! | LC_3C_41_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/054/131/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/054/131/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 54003 | html_generico | Interferencia: Snack Attack | LC_3C_40_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/054/003/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/054/003/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 53872 | html_generico | Interferencia: Tap, tap, tap | LC_3C_39_LM
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/053/872/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 53741 | html_generico | Interferencia: Sé valiente | LC_3C_38_LM
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/053/741/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 53592 | html_generico | Interferencia: Borregos | LC_3C_37_LM
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/053/592/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 53464 | html_generico | Interferencia: Dientes | LC_3C_36_LM
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/053/464/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 53331 | html_generico | Interferencia: El puente | LC_3C_35_LM
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/053/331/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 53191 | html_generico | Interferencia: Panda | LC_3C_34_LM
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/053/191/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 53066 | html_generico | Interferencia: La coma salva vidas | LC_3C_33_LM
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/053/066/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 52868 | html_generico | Interferencia: COMAS Cambian Ideas | LC_3C_31_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/052/868/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/052/868/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 52735 | html_generico | Interferencia: Mírame a los ojos | LC_3C_30_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/052/735/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/052/735/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 52604 | html_generico | Interferencia: @Roméo+@Juliette | LC_3C_29_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/052/604/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/052/604/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 52479 | html_generico | Interferencia: Retos que vencer en la vida | LC_3C_28_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/052/479/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/052/479/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 52345 | html_generico | Interferencia: El niño con el pijama de rayas | LC_3C_27_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/052/345/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/052/345/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 52209 | html_generico | Interferencia: Ratón en venta | LC_3C_26_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/052/209/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/052/209/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 52088 | html_generico | Interferencia: ¡Quiero que actúen ya! | LC_3C_25_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/052/088/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/052/088/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 51963 | html_generico | Interferencia: Superdotada | LC_3C_24_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/051/963/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/051/963/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 51825 | html_generico | Interferencia: Pájaros en la cabeza | LC_3C_23_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/051/825/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/051/825/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 51626 | html_generico | Interferencia: Mi vida es tuya | LC_10_28_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/051/626/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/051/626/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 51492 | html_generico | Interferencia: La edición en blanco | LC_10_27_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/051/492/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/051/492/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 51370 | html_generico | Interferencia: La isla sin tiempo | LC_10_26_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/051/370/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/051/370/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 51251 | html_generico | Interferencia: El Preciobajismo | LC_10_25_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/051/251/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/051/251/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 51108 | html_generico | Interferencia: SU3T1TUL0S | LC_10_24_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/051/108/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/051/108/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 50962 | html_generico | Interferencia: Moby Dick sin límites | LC_10_23_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/050/962/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/050/962/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 50821 | html_generico | Interferencia: Piedra, Papel, Tijeras | LC_10_22_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/050/821/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/050/821/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 50707 | html_generico | Interferencia: The Real Young | LC_10_21_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/050/707/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/050/707/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 50598 | html_generico | Interferencia: El soporte técnico | LC_10_20_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/050/598/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/050/598/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 50461 | html_generico | Interferencia: Héroes de hoy | LC_10_19_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/050/461/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/050/461/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 50332 | html_generico | Interferencia: Evan | LC_10_18_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/050/332/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/050/332/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 50213 | html_generico | Interferencia: Contrastes | LC_10_17_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/050/213/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/050/213/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 49970 | html_generico | Interferencia: Buscando apoyo | LC_09_31_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/049/970/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/049/970/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 49855 | html_generico | Interferencia: Cambia el mundo | LC_09_30_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/049/855/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/049/855/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 49740 | html_generico | Interferencia: En busca de la verdad | LC_09_29_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/049/740/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/049/740/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 49631 | html_generico | Interferencia: Piedra, portátil, tijeras | LC_09_28_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/049/631/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/049/631/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 49504 | html_generico | Interferencia: FakeMe | LC_09_27_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/049/504/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/049/504/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 49396 | html_generico | Interferencia: Kerido abuelo | LC_09_26_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/049/396/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/049/396/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 49258 | html_generico | Interferencia: Esto no es un poema | LC_09_25_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/049/258/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/049/258/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 49149 | html_generico | Interferencia: Ni caso | LC_09_24_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/049/149/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/049/149/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 49029 | html_generico | Interferencia: Conformidad social | LC_09_23_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/049/029/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/049/029/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 48924 | html_generico | Interferencia: Lengua madre solo hay una | LC_09_22_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/048/924/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/048/924/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 48827 | html_generico | Interferencia: ¿Estás? | LC_09_21_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/048/827/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/048/827/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 48681 | html_generico | Interferencia: ¿De qué color es el color carne? | LC_09_20_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/048/681/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/048/681/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 48458 | html_generico | Interferencia: ¿Qué te puedes perder? | LC_08_25_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/048/458/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/048/458/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 48338 | html_generico | Interferencia: ¿'Chi' o 'chí'? | LC_08_24_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/048/338/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/048/338/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 48231 | html_generico | Interferencia: "Me gusta" no es ayudar | LC_08_23_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/048/231/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/048/231/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 48094 | html_generico | Interferencia: Identidad | LC_08_22_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/048/094/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/048/094/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 47977 | html_generico | Interferencia: Pásame la sal | LC_08_21_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/047/977/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/047/977/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 47848 | html_generico | Interferencia: El rostro oculto de las cosas | LC_08_20_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/047/848/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/047/848/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 47751 | html_generico | Interferencia: Una osa polar sin hogar en Londres | LC_08_19_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/047/751/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/047/751/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 47651 | html_generico | Interferencia: Instrucciones para el día a día | LC_08_18_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/047/651/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/047/651/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 47549 | html_generico | Interferencia: Hackear la educación me hace feliz | LC_08_17_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/047/549/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/047/549/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 47446 | html_generico | Interferencia: La última puntada | LC_08_16_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/047/446/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/047/446/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 47336 | html_generico | Interferencia: "No" significa "no" | LC_08_15_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/047/336/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/047/336/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 47177 | html_generico | Interferencia: Pase lo que pase yo estoy a tu lado | LC_08_14_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/047/177/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/047/177/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 46899 | html_generico | Interferencia: La pesca del langostino en corro | LC_07_29_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/046/899/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/046/899/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 46765 | html_generico | Interferencia: Frente al enemigo | LC_07_28_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/046/765/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/046/765/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 46657 | html_generico | Interferencia: Proverbio chino | LC_07_27_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/046/657/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/046/657/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 46552 | html_generico | Interferencia: Una buena base lo es todo | LC_07_26_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/046/552/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/046/552/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 46447 | html_generico | Interferencia: Cómo hacer mafe | LC_07_25_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/046/447/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/046/447/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 46346 | html_generico | Interferencia: Objetos perdidos | LC_07_24_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/046/346/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/046/346/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 46238 | html_generico | Interferencia: Todos los sueños son iguales | LC_07_23_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/046/238/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/046/238/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 46124 | html_generico | Interferencia: Chica/Chico | LC_07_22_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/046/124/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/046/124/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 45999 | html_generico | Interferencia: Mejor en prisión | LC_07_21_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/045/999/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/045/999/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 45888 | html_generico | Interferencia: Vencedora | LC_07_20_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/045/888/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/045/888/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 45789 | html_generico | Interferencia: Redes sociales | LC_07_19_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/045/789/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/045/789/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 └─ ERROR: No se pudo restaurar el recurso 45650 | html_generico | Interferencia: El mejor clima del mundo | LC_07_18_LM
+2024-09-02T21:50:58+00:00  └─ La ruta origen /Users/ocastelblanco/Documents/PlanetaEspaña/Interferencia/reemplazo/backup/000/045/650/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ La ruta destino Z:/CPCAN/global_assets/resource/000/045/650/_resource_content.zip no existe en el sistema de archivos.
+2024-09-02T21:50:58+00:00  └─ Se continúa con el siguiente recurso.
+2024-09-02T21:50:58+00:00 Se restauraron 0 recursos en total.
