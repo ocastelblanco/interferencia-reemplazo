@@ -1,0 +1,15 @@
+ruta|ajuste|pattern|replacement
+/docs|eliminacion||
+/*.js|eliminacion||
+/*.css|eliminacion||
+/*.html|eliminacion||
+nuevaInterferencia/*.js|copia||
+nuevaInterferencia/*.css|copia||
+nuevaInterferencia/*.html|copia||
+/data/interfaz.json|reemplazo|/<a\s[^>]*href=\\"\.\/docs\/[^>]*>([^<]+)<\/a>/gm|<em>$1</em>
+/data/interfaz.json|reemplazo|diana\s<em>Autoevaluación<\/em>|<em>Diana de aprendizaje</em>
+/data/interfaz.json|reemplazo|/(Coevaluación\sdel\strabajo\sen\s)equipo/gm|$1grupo
+/data/interfaz.json|reemplazo|/(Para\sello,\s)[^>]+>[^>]+>[^"]+/gm|$1puedes utilizar los recursos que te proponga tu profesor o profesora. 
+/data/interfaz.json|reemplazo|/(jugártela\s{accion}\.).+(",)/gm|$1$2\n        "consulta": "Para ello, puedes utilizar los recursos que te proponga tu profesor o profesora.",
+/data/interfaz.json|reemplazo|/("encabezado":\s")\sconsultando\sel\s<a[^,]+/gm|$1. Para ello, puedes utilizar los recursos que te proponga tu profesor o profesora."
+/data/interfaz.json|reemplazo|/("encabezado":\s"\sPara ello,\s)[^,]+/gm|$1puedes utilizar los recursos que te proponga tu profesor o profesora."
